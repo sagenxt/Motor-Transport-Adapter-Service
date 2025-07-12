@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Motor.Transport.Adapter.Api.props" />
+</Project>

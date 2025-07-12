@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Core.ApiResponse" Version="1.0.0" />
+    <PackageReference Include="Core.MSSQL.DataAccess" Version="1.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Motor.Transport.Adapter.Models\Motor.Transport.Adapter.Models.csproj" />
+    <ProjectReference Include="..\Motor.Transport.Adapter.Utility\Motor.Transport.Adapter.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

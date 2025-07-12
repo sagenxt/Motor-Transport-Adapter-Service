@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GKy4Jp6Ko6apJ4vPyCaRfaAnCamk5wdmAQmEw8AJGoE=",
+  "Source": "Motor.Transport.Adapter.Api",
+  "BasePath": "_content/Motor.Transport.Adapter.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Motor.Transport.Adapter.Models/1.0.0": {
+        "runtime": {
+          "Motor.Transport.Adapter.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Motor.Transport.Adapter.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
