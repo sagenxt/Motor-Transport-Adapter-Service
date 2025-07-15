@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Motor.Transport.Adapter.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f45233a08b552020ea93893b0f7e5e38047794b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195ba785858db227de3faaa6bc65ec4885d33049")]
 [assembly: System.Reflection.AssemblyProductAttribute("Motor.Transport.Adapter.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Motor.Transport.Adapter.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

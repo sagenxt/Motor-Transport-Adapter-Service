@@ -334,7 +334,7 @@ namespace Motor.Transport.Adapter.Service.Implement.Worker
             string authKey = "459818AxufzdxH68715606P1";
             string mobile = mobileNumber;
             string templateId = "687160d0d6fc05226601d2b2";
-            string senderId = "sagenxt123"; 
+            //string senderId = "sagenxt123"; 
 
             var url = $"https://api.msg91.com/api/v5/otp?template_id={templateId}&mobile={mobile}&authkey={authKey}";
 
@@ -347,7 +347,7 @@ namespace Motor.Transport.Adapter.Service.Implement.Worker
                 {
                     StatusCode = (int)response.StatusCode,
                     Message = "OTP sent successfully.",
-                };             ;
+                };             
                 return otpResponse;
             }
             else
