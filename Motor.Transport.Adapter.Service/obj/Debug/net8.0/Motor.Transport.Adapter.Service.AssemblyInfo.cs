@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Motor.Transport.Adapter.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195ba785858db227de3faaa6bc65ec4885d33049")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f80ec47a40b25106f71d117fc72340788c13065")]
 [assembly: System.Reflection.AssemblyProductAttribute("Motor.Transport.Adapter.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Motor.Transport.Adapter.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
